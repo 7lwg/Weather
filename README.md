@@ -99,6 +99,7 @@ The **Weather App** provides users with real-time weather data for any city worl
 - **Dart**: Programming language used with Flutter.
 - **Cubit**: State management solution that provides a simple way to manage and react to changes in the app's state.
 - **http**: For making network requests to fetch weather data from the [External Weather API](https://weather.visualcrossing.com/).
+- **SharedPreferences**: Used for persistent local data storage, allowing the app to remember user settings and preferences.
 - **Geolocation**: Utilizes device location services to determine the user's current location for weather updates.
 - **Animation**: Used to create smooth and interactive user experiences.
 - **Responsive Design**: Ensures the app layout works well across various screen sizes and devices.
